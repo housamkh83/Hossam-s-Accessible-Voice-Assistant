@@ -1,0 +1,8 @@
+sounddevice
+soundfile
+SpeechRecognition
+pygame
+gTTS
+deep_translator
+numpy 
+# tkinter عادة ما يكون مدمجاً مع بايثون، لكن لا يضر ذكره أو التأكد منه.
